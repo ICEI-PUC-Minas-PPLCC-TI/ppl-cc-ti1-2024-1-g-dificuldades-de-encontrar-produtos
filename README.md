@@ -66,16 +66,6 @@ No vasto e dinâmico mercado de tecnologia, encontrar o produto ideal para atend
 
 
 
-## Alunos integrantes da equipe
-
-* Hitler Petruceli
-* Marcus Meleiro
-* Rodrigo Bellis
-* Vitor Lages
-
-## Professores responsáveis
-
-* Rommel Carvalho
 
 
 ## Instruções de utilização
