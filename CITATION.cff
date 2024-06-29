@@ -1,8 +1,8 @@
 <<<<<<< HEAD
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title: 
-authors:
+title: Preço Mestre
+authors: Vitor Lages, Marcus Meleiro, Hitler Petruceli, Rodrigo Bellis
   - family-names: 
     given-names: 
   - family-names: 
@@ -15,11 +15,11 @@ authors:
     given-names: 
   - family-names: 
     given-names:
-  - name-suffix: Professor
+  - name-suffix: Rommel Vieira Carneiro
     affiliation: PUC Minas
     family-names: 
     given-names: 
-  - name-suffix: Professor
+  - name-suffix: Tamara Simões Silva
     affiliation: PUC Minas
     family-names: 
     given-names: 
